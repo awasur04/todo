@@ -1,0 +1,1 @@
+java -jar ./backend/build/libs/todo-0.0.1-SNAPSHOT.jar
